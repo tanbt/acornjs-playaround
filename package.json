@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "acorn": "^6.0.4",
+    "acorn": "^6.1.0",
+    "acorn-walk": "^6.1.1",
     "webpack": "^4.27.1"
   },
   "devDependencies": {
